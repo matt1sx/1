@@ -1,2 +1,1 @@
-# 1
-dms questão1
+Implementei de forma simples e rapioda assim como foi pedido na questão.
